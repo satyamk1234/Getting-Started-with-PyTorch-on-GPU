@@ -30,8 +30,8 @@ The dataset used is the **UCI Auto MPG dataset**, which contains car attributes 
 
 1. **Clone this repository**
    ```bash
-  git clone https://github.com/satyamk1234/Getting-Started-with-PyTorch-on-GPU.git
-  cd Getting-Started-with-PyTorch-on-GPU
+   git clone https://github.com/satyamk1234/Getting-Started-with-PyTorch-on-GPU.git
+   cd Getting-Started-with-PyTorch-on-GPU
 
 2. Install dependencies
   pip install -r requirements.txt
