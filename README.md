@@ -58,10 +58,13 @@ Custom training loop implementation
 GPU utilization with CUDA
 
 📂 Project Structure 
+
 ├── fuel_eff.ipynb # Main notebook 
 ├── requirements.txt # Python dependencies 
 ├── README.md # Project documentation
 
 🙌 Acknowledgments 
+
 Dataset: UCI Auto MPG Dataset 
+
 Book Reference: Machine Learning with PyTorch and Scikit-Learn by Sebastian Raschka et al.
